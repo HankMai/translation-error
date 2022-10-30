@@ -1,4 +1,4 @@
-# translation-error-对技术书籍翻译的一些勘误
+# translation-error 对技术书籍翻译的一些勘误
 
 ## 简介
 （暂无）
